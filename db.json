@@ -4,31 +4,41 @@
       "id": 1,
       "name": "Heineken",
       "price":2.99,
-      "quantity":1
+      "quantity":1,
+      "promo":50.00,
+      "imageUrl":"https://products1.imgix.drizly.com/ci-heineken-lager-6ea7dedfaaced647.jpeg?auto=format%2Ccompress&fm=jpeg&q=20"
     },
     {
       "id": 2,
       "name": "Becks",
       "price":3.99,
-      "quantity":2
+      "quantity":2,
+      "promo":20.00,
+      "imageUrl":"https://products1.imgix.drizly.com/ci-becks-pilsner-b8863a77b59bfc58.jpeg?auto=format%2Ccompress&fm=jpeg&q=20"
     },
     {
       "id": 3,
       "name": "Staropramen",
       "price":2.99,
-      "quantity":3
+      "quantity":3,
+      "promo":25.00,
+       "imageUrl":"https://molloys.ie/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/s/t/staropramen_500ml_nrb_large.png"
     },
     {
       "id": 4,
       "name": "Dos Equis",
       "price":3.99,
-      "quantity":3
+      "quantity":3,
+      "promo":0.00,
+      "imageUrl":"https://products1.imgix.drizly.com/ci-dos-equis-lager-47ccc594ec8ef07a.jpeg?auto=format%2Ccompress&fm=jpeg&q=20"
     },
     {
       "id": 5,
       "name": "Fakin IPA by Zagreb",
       "price":2.99,
-      "quantity":3
+      "quantity":3,
+      "promo":0.00,
+      "imageUrl":"https://cdn.beeradvocate.com/im/beers/188487.jpg"
     }
   ],
   "profile": {
