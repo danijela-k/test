@@ -6,27 +6,27 @@
       "scheduledStartTime":"08:00",
       "scheduledEndTime":"18:00",
       "priority":3,
-      "reoucurrancePattern":"1111111"
+      "reoucurrancePattern":"1111111",
       "media" : [
-      {
-      "id": 1,
-      "mediaType" : "image",
-      "duration":20,
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"      
-      },
-      {
-      "id": 2,
-      "mediaType" : "video",
-      "duration":15,
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"      
-      },
-      {
-      "id": 3,
-      "mediaType" : "video",
-      "duration":15,
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"      
-      }
-      ]
+         {
+         "id": 1,
+         "mediaType" : "image",
+         "duration":20,
+         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"      
+         },
+         {
+         "id": 2,
+         "mediaType" : "video",
+         "duration":15,
+         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"      
+         },
+         {
+         "id": 3,
+         "mediaType" : "video",
+         "duration":15,
+         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"      
+         }
+         ]
       },
       
        {
@@ -36,21 +36,20 @@
       "scheduledStartTime":"11:00",
       "scheduledEndTime":"12:00",
       "priority":2,
-      "reoucurrancePattern":"1111111"
+      "reoucurrancePattern":"1111111",
       "media" : [
-      {
-      "id": 4,
-      "mediaType" : "image",
-      "duration":20,
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"      
-      },
-      {
-      "id": 5,
-      "mediaType" : "video",
-      "duration":15,
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"      
-      }
-      
+         {
+         "id": 4,
+         "mediaType" : "image",
+         "duration":20,
+         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"      
+         },
+         {
+         "id": 5,
+         "mediaType" : "video",
+         "duration":15,
+         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"      
+         }
       ]
       }
  
